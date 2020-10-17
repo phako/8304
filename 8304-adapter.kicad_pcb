@@ -2,7 +2,7 @@
 
   (general
     (thickness 1.6)
-    (drawings 12)
+    (drawings 11)
     (tracks 21)
     (zones 0)
     (modules 3)
@@ -568,9 +568,6 @@
   )
 
   (gr_text 74LS245 (at 109.4105 43.4975 90) (layer F.SilkS)
-    (effects (font (size 1 1) (thickness 0.15)))
-  )
-  (gr_text mail@jensge.org (at 97.3455 44.069 90) (layer B.Cu)
     (effects (font (size 1 1) (thickness 0.15)))
   )
   (gr_text 1 (at 99.06 29.21) (layer F.SilkS)
